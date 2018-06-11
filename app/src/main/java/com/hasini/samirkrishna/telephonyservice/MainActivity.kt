@@ -46,5 +46,6 @@ class MainActivity : AppCompatActivity() {
 
         lview?.adapter=adapter
         adapter.setNotifyOnChange(true)
+        //these lines
     }
 }
